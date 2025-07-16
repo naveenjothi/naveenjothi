@@ -129,6 +129,8 @@
 </a>
 </p>
 
+----
+
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
@@ -140,12 +142,16 @@
   </a>
 </p>
 
+----
+
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">GitHub Stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=naveenjothi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/naveenjothi)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=naveenjothi&theme=material-palenight)](https://github.com/naveenjothi)
 </div>
+
+----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/naveenjothi/naveenjothi/main/github-contribution-grid-snake.svg"
