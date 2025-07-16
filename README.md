@@ -142,14 +142,11 @@
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">GitHub Stats:</h2>
-<a href="https://github.com/naveenjothi">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnaveenjothi%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26locale%3Den" alt="Naveen Jothi's GitHub stats" />
-</a>
-<a href="https://github.com/naveenjothi">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnaveenjothi%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=naveenjothi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/naveenjothi)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=naveenjothi&theme=material-palenight)](https://github.com/naveenjothi)
 </div>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/naveenjothi/naveenjothi/main/github-contribution-grid-snake.svg" alt="snake" />
+  <img  src="https://raw.githubusercontent.com/naveenjothi/naveenjothi/main/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
