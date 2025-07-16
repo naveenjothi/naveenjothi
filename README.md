@@ -55,10 +55,10 @@
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
 </a>
 <a href="https://golang.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="go"/>
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
 </a>
 <a href="https://www.python.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3776AB.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="python"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </a>
 </p>
 
@@ -68,13 +68,13 @@
 <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
 </a>
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="nextjs"/>
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvuedotjs%26logoColor%3Dwhite" alt="vuejs"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vuejs"/>
 </a>
 <a href="https://nuxtjs.org/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nuxt.js-00DC82.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnuxtdotjs%26logoColor%3Dwhite" alt="nuxtjs"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxtjs"/>
 </a>
 <a href="https://redux.js.org" target="_blank">
 <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
@@ -87,10 +87,10 @@
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 </a>
 <a href="https://nestjs.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NestJS-E0234E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" alt="nestjs"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
 </a>
 <a href="https://graphql.org" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GraphQL-E10098.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite" alt="graphql" />
+<img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
 </a>
 </p>
 
@@ -103,7 +103,7 @@
 <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 </a>
 <a href="https://www.elastic.co/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ElasticSearch-005571.svg%3Fstyle%3Dfor-the-badge%26logo%3Delasticsearch%26logoColor%3Dwhite" alt="elasticsearch"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch"/>
 </a>
 <a href="https://redis.io" target="_blank">
 <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
@@ -113,10 +113,10 @@
 <h3 align="center">Cloud & DevOps</h3>
 <p align="center">
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E.svg%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="aws"/>
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="gcp"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
@@ -125,23 +125,14 @@
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </a>
 <a href="https://www.rabbitmq.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rabbitmq-FF6600.svg%3Fstyle%3Dfor-the-badge%26logo%3Drabbitmq%26logoColor%3Dwhite" alt="rabbitmq"/>
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq"/>
 </a>
 </p>
 
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/naveen-jothi" target="_blank">
-<img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="mailto:naveenjothi040@gmail.com?subject=Hello from GitHub!" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail"/>
-</a>
-</p>
-
-<p align="center">
-  <a href="https://www.google.com/search?q=https://linkedin.com/in/naveen-jothi" target="_blank">
+  <a href="https://linkedin.com/in/naveen-jothi" target="_blank">
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:naveenjothi040@gmail.com?subject=Hello from GitHub!" target="_blank">
