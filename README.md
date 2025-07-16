@@ -89,8 +89,8 @@
 <a href="https://nestjs.com/" target="_blank">
 <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
 </a>
-<a href="https://graphql.org" target="_blank">
-<img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+<a href="https://golang.org/" target="_blank">
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
 </a>
 </p>
 
