@@ -136,8 +136,17 @@
 <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="mailto:naveenjothi040@gmail.com?subject=Hello from GitHub!" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail"/>
 </a>
+</p>
+
+<p align="center">
+  <a href="https://www.google.com/search?q=https://linkedin.com/in/naveen-jothi" target="_blank">
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:naveenjothi040@gmail.com?subject=Hello from GitHub!" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="navayuvan"/>
+  </a>
 </p>
 
 <div align="center">
